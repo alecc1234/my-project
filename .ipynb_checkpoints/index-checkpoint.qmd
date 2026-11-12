@@ -31,7 +31,7 @@ df = sns.load_dataset('car_crashes')
 df.sample(5)
 ```
 
-I love drinking!!!!!! and all my friends love drinking!!!!!!!!!! and we need money for drinks!!!!!!!!!! but we keep spending money on insurance >:((((((((((((((((((((. Are we paying more money to insurance the more we drink?!!!!!!!!!!!!! 
+I love drinking!!!!!! and all my friends love drinking!!!!!!!!!! and we need money for drinks!!!!!!!!!! but we keep spending money on insurance >:((((((((((((((((. Are we paying more money to insurance the more we drink?!!!!!!!!!!!!! 
 
 # Literature Review
 
