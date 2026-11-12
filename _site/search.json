@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Another Ten Sentence Term Paper Using Correlation Analysis",
+    "section": "",
+    "text": "import pandas as pd\nimport numpy as np\n\nimport matplotlib.pyplot as plt\n\nimport seaborn as sns\n\ndf = sns.load_dataset('car_crashes')\ndf.sample(5)\n\n\n\n\n\n\n\n\ntotal\nspeeding\nalcohol\nnot_distracted\nno_previous\nins_premium\nins_losses\nabbrev\n\n\n\n\n2\n18.6\n6.510\n5.208\n15.624\n17.856\n899.47\n110.35\nAZ\n\n\n34\n23.9\n5.497\n10.038\n23.661\n20.554\n688.75\n109.72\nND\n\n\n30\n11.2\n1.792\n3.136\n9.632\n8.736\n1301.52\n159.85\nNJ\n\n\n13\n12.8\n4.608\n4.352\n12.032\n12.288\n803.11\n139.15\nIL\n\n\n18\n20.5\n7.175\n6.765\n14.965\n20.090\n1281.55\n194.78\nLA\n\n\n\n\n\n\n\nI love drinking!!!!!! and all my friends love drinking!!!!!!!!!! and we need money for drinks!!!!!!!!!! but we keep spending money on insurance &gt;:((((((((((((((((((((. Are we paying more money to insurance the more we drink?!!!!!!!!!!!!!"
+  },
+  {
+    "objectID": "index.html#bonus-plots",
+    "href": "index.html#bonus-plots",
+    "title": "Another Ten Sentence Term Paper Using Correlation Analysis",
+    "section": "Bonus plots",
+    "text": "Bonus plots\n\nsns.lmplot(data=df, y='ins_premium', x='alcohol')"
+  }
+]
